@@ -1,0 +1,67 @@
+body{
+	background-color:#f5f5f5;
+	margin: 0px;
+	padding: 0px;
+}
+
+.modal-trigger{
+
+}
+
+.dw 
+{
+	padding-top: 22px;
+	float:right;
+	width: 400px;
+}
+
+
+#btnginicio
+{
+	padding-top: 10px;
+	float:right;
+	width: 400px;
+}
+
+#icoreg
+{
+margin-right:10px;
+}
+
+.foini
+{
+    padding-top: 0px;
+	float: right;
+}
+
+.navbar-fixed #logo #milogo
+{
+	width: 100px;
+	height: 100px;
+	padding-left: 20px;
+}
+.side-nav a, nav ul a{
+	font-size: 0.6em;
+}
+
+.side-nav a, nav ul{
+	word-spacing: 60px;
+	
+}
+hr {
+  background-color: #01579b;
+  height: 3px;
+}
+.mobile-demo
+{
+	position:center;
+}
+li{
+	margin-right:60px;
+}
+h5
+{
+	font-family:;
+}
+
+/*ESTILO DE Contactanos*/

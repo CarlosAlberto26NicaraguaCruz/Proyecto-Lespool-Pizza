@@ -1,0 +1,46 @@
+body{
+	background-color:#f5f5f5;
+	margin: 0px;
+	padding: 0px;
+}
+
+.dw
+{
+	padding-top: 10px;
+	float: right;
+}
+.navbar-fixed #logo
+{
+	width: 100px;
+	height: 100px;
+	padding-left: 20px;
+}
+
+.side-nav a, nav ul li{
+	word-spacing: 0px;
+	
+}
+hr {
+  background-color: #01579b;
+  height: 3px;
+}
+.mobile-demo
+{
+	position:center;
+}
+
+#modal2 
+{
+width: 500px;
+
+}
+
+/*Estilo tabla inicio*/
+.striped
+{
+	width: 900px;
+	height:300px;
+
+}
+
+/*Estilo Formulario Agregar Producto*/
